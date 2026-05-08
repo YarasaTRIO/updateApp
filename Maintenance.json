@@ -1,6 +1,5 @@
 {
   "bakim": true,
-  "versiyon": "1.0",
-  "mesaj": "Uygulama şu an bakımdadır, lütfen sonra tekrar deneyin.",
-  "link": "https://google.com"
+  "baslik": "Bakım Çalışması",
+  "mesaj": "Şu an yeni sürüm hazırlıkları yapılıyor. Lütfen bekleyin!"
 }
